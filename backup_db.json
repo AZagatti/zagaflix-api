@@ -1,0 +1,231 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Entretenimento",
+      "color": "#bf2015"
+    },
+    {
+      "id": 2,
+      "name": "Tecnologia",
+      "color": "#441de0"
+    },
+    {
+      "id": 3,
+      "name": "Finanças",
+      "color": "#b87a11"
+    },
+    {
+      "id": 4,
+      "name": "Música",
+      "color": "#7e1ba8"
+    },
+    {
+      "name": "Treino e nutrição",
+      "color": "#4a8224",
+      "id": 5
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "3 TIPOS DE FEIJOADA | Mohamad Hindi",
+      "url": "https://www.youtube.com/watch?v=6_IXC9G__Q8"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "PS5 vai ter GRÁFICOS PIORES que o XBOX SERIES X?",
+      "url": "https://www.youtube.com/watch?v=mqvTQZvz4Mk"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "o FIM do INSTAGRAM (ft. Maicon Küster & Pedro Orochi)",
+      "url": "https://www.youtube.com/watch?v=coax7quuH84"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Terraria Master 1.4 ► Iniciando na Dificuldade Suprema da Update Final! #01",
+      "url": "https://www.youtube.com/watch?v=KuKJvVJujko"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Por que tem TANTOS cheaters nos jogos? Entenda como os Anti-Cheats funcionam",
+      "url": "https://www.youtube.com/watch?v=LXI856j_aO4"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "COMPREI UM NOTEBOOK DE UM ANÚNCIO GOLPE PRA VER ATÉ ONDE ISSO IRIA",
+      "url": "https://www.youtube.com/watch?v=wNm8YJqnSSs"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "name": "Desmascarando o Charlatão mais famoso do mundo (Linguagem Corporal - Metaforando)",
+      "url": "https://www.youtube.com/watch?v=L53PxBA4kh4"
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "name": "Speedrun: Do Zero ao React | Como fazer um React e aprender a ideia do Virtual DOM na prática",
+      "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "name": "DRY, KISS, YAGNI | Code/Drops #27",
+      "url": "https://www.youtube.com/watch?v=5yJ_cAUrpQc"
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "Programei 4 robôs que criam vídeos para mim no YouTube",
+      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "name": "Por onde começar a programar para web? | lib/framework ou linguagem",
+      "url": "https://www.youtube.com/watch?v=tnxL1BEMf5k"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "name": "The State of State Management in React",
+      "url": "https://www.youtube.com/watch?v=BhQYZmaxTCM"
+    },
+    {
+      "id": 26,
+      "categoryId": 2,
+      "name": "A história maluca por trás do Dracula Theme🧛‍♂️ ‬ | Zeno Rocha",
+      "url": "https://www.youtube.com/watch?v=3euNy-1gDhk"
+    },
+    {
+      "id": 27,
+      "categoryId": 2,
+      "name": "Exemplo de um Código FUNCIONAL com Composição de Funções!",
+      "url": "https://www.youtube.com/watch?v=Gu7fsv4Lf7E"
+    },
+    {
+      "id": 13,
+      "categoryId": 3,
+      "name": "URGENTE! A TAXA SELIC CAIU PARA 2,25%! | Mas é bom tomar cuidado com a pegadinha...",
+      "url": "https://www.youtube.com/watch?v=vN3SejW4VY8"
+    },
+    {
+      "id": 14,
+      "categoryId": 3,
+      "name": "Como controlar a carteira de FII's ? (Fundos Imobiliários)",
+      "url": "https://www.youtube.com/watch?v=kkDszVALN_E"
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "name": "Como investir igual ao Warren Buffett | Value Investing #TBT",
+      "url": "https://www.youtube.com/watch?v=HIjmPawDdAU"
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "name": "OS 10 HÁBITOS DAS PESSOAS MAIS BEM-SUCEDIDAS DO MUNDO | Hábitos de Sucesso",
+      "url": "https://www.youtube.com/watch?v=mE4QuBimjyE"
+    },
+    {
+      "id": 28,
+      "categoryId": 3,
+      "name": "As 5 MELHORES AÇÕES para 2020 (e quando investir MAIS nelas)",
+      "url": "https://www.youtube.com/watch?v=H8VLlgUkbkY"
+    },
+    {
+      "id": 17,
+      "categoryId": 4,
+      "name": "Free Bird (Extended Music Version)",
+      "url": "https://www.youtube.com/watch?v=bwqfwieV-mc"
+    },
+    {
+      "id": 18,
+      "categoryId": 4,
+      "name": "Led Zeppelin - Stairway To Heaven (Official Audio)",
+      "url": "https://www.youtube.com/watch?v=QkF3oxziUI4"
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "name": "Greta Van Fleet - Highway Tune",
+      "url": "https://www.youtube.com/watch?v=aJg4OJxp-co"
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "name": "FAIRY TAIL Main Theme フェアリーテイル 主題歌 Ru's Piano | We are Fairy Tail!!",
+      "url": "https://www.youtube.com/watch?v=_1oxy7mCD4A"
+    },
+    {
+      "id": 29,
+      "categoryId": 4,
+      "name": "Iron Maiden - Dance of Death",
+      "url": "https://www.youtube.com/watch?v=3659fTXvFts"
+    },
+
+    {
+      "id": 30,
+      "categoryId": 4,
+      "name": "Bleach - Opening 13 | Ranbu no Melody",
+      "url": "https://www.youtube.com/watch?v=XXjgwpayNoM"
+    },
+
+    {
+      "id": 31,
+      "categoryId": 4,
+      "name": "Begin Again",
+      "url": "https://www.youtube.com/watch?v=baJ0aNBsE44"
+    },
+    {
+      "id": 21,
+      "categoryId": 5,
+      "name": "O MELHOR AERÓBICO PARA SECAR! (PROTOCOLO NOVO) - PERCA GORDURA LOCALIZADA!",
+      "url": "https://www.youtube.com/watch?v=ICH3alfMEkI"
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "name": "Calistenia para quem não faz Barra.",
+      "url": "https://www.youtube.com/watch?v=3Dri4Vv8eZQ"
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "name": "Treino para Iniciantes na Calistenia",
+      "url": "https://www.youtube.com/watch?v=3heEp67VoEI"
+    },
+    {
+      "id": 32,
+      "categoryId": 5,
+      "name": "Como fazer sua PRIMEIRA BARRA ?",
+      "url": "https://www.youtube.com/watch?v=HyMrNycbZuI"
+    },
+    {
+      "id": 33,
+      "categoryId": 5,
+      "name": "TOP 10 SUPLEMENTOS INÚTEIS",
+      "url": "https://www.youtube.com/watch?v=uRQAT8JSINE"
+    },
+    {
+      "id": 34,
+      "categoryId": 5,
+      "name": "Como Perder a Barriga?! (A VERDADE!) a Solução do Falso Magro",
+      "url": "https://www.youtube.com/watch?v=YfRBv7smFPA"
+    },
+    {
+      "id": 35,
+      "categoryId": 5,
+      "name": "Flexão de braço: VOCÊ ESTÁ FAZENDO ISSO ERRADO!",
+      "url": "https://www.youtube.com/watch?v=tMNzLRPULTs"
+    }
+  ]
+}
